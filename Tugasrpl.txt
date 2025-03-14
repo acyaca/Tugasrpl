@@ -1,3 +1,2 @@
-- membuat database
 - membuat website ecommerce
 - membuat halaman login
